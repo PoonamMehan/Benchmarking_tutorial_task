@@ -1,0 +1,35 @@
+schema_version = "1.4"
+artifacts = []
+
+[task]
+name = "M/ssh-key-pair"
+version = "1.0.0"
+description = ""
+authors = []
+keywords = []
+
+[metadata]
+author_name = "Poonam Mehan"
+author_email = "poonammehan655@gmail.com"
+difficulty_explanation = "Simple SSH Key generation command"
+category = "system-administration"
+tags = ["ssh", "cryptography", "linux"]
+
+[verifier]
+timeout_sec = 600.0
+collect = []
+
+[verifier.env]
+
+[agent]
+timeout_sec = 120.0
+
+[environment]
+network_mode = "public"
+build_timeout_sec = 600.0
+os = "linux"
+mcp_servers = []
+
+[environment.env]
+
+[solution.env]
