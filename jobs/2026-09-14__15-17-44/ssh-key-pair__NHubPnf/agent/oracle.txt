@@ -1,0 +1,19 @@
+Created directory '/root/.ssh'.
+Generating public/private rsa key pair.
+Your identification has been saved in /root/.ssh/id_rsa
+Your public key has been saved in /root/.ssh/id_rsa.pub
+The key fingerprint is:
+SHA256:7bTjvlikfcilffBkWJ+2r/57K5MPGdW8miIdrHZK4GI root@ad4e4fc0efe0
+The key's randomart image is:
++---[RSA 3072]----+
+|                 |
+|               ..|
+|              ..o|
+|         ..  o..o|
+|       .S +o+.o+.|
+|      . .Bo*.=* .|
+|     E ..=X+o=+. |
+|    . . o++o.=. o|
+|        .o+. .***|
++----[SHA256]-----+
+chmod: cannot access 'ssh-key-pair/solution/solve.sh': No such file or directory

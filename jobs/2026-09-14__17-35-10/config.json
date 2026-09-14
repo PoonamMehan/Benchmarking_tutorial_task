@@ -1,0 +1,16 @@
+{
+    "job_name": "2026-09-14__17-35-10",
+    "jobs_dir": "/Users/poonam/projects/Maha W/TBenchTutTask/jobs",
+    "n_concurrent_trials": 10,
+    "agents": [
+        {
+            "name": "claude-code",
+            "model_name": "haiku"
+        }
+    ],
+    "tasks": [
+        {
+            "path": "/var/folders/kf/7ly4c7_x18sbyh2w3mfsgfvh0000gn/T/harbor-analyze-kd5c635n/analyze-ssh-key-pair__YjL6Yeu"
+        }
+    ]
+}

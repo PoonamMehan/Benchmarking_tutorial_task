@@ -1,0 +1,12 @@
+{
+    "task": {
+        "path": "/var/folders/kf/7ly4c7_x18sbyh2w3mfsgfvh0000gn/T/harbor-analyze-kd5c635n/analyze-ssh-key-pair__YjL6Yeu"
+    },
+    "trial_name": "analyze-ssh-key-pair__YjL6Yeu__qr5pp6H",
+    "trials_dir": "/Users/poonam/projects/Maha W/TBenchTutTask/jobs/2026-09-14__17-35-10",
+    "agent": {
+        "name": "claude-code",
+        "model_name": "haiku"
+    },
+    "job_id": "391fa77f-7701-44d7-9d25-933122a6f377"
+}

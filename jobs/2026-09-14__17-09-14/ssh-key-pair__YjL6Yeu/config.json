@@ -1,0 +1,12 @@
+{
+    "task": {
+        "path": "ssh-key-pair"
+    },
+    "trial_name": "ssh-key-pair__YjL6Yeu",
+    "trials_dir": "jobs/2026-09-14__17-09-14",
+    "agent": {
+        "name": "terminus-2",
+        "model_name": "anthropic/claude-haiku-4-5"
+    },
+    "job_id": "32d08e44-4e0e-4ba2-aea0-858fecb6c329"
+}
